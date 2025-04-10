@@ -18,13 +18,7 @@
         {
             "binding": "DB",
             "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_id": "6513cdfb-9a25-414e-8448-d7427066379a"
         }
-    ],
-    "vars": {
-        "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
-    }
+    ]
 }
